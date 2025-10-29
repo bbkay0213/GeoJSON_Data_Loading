@@ -1,0 +1,231 @@
+{
+  "type": "FeatureCollection",
+  "name": "japan_volcanoes",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol1",
+        "name": "Mount Fuji",
+        "elevation_m": 3776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7274,
+          35.3606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol2",
+        "name": "Mount Rausu",
+        "elevation_m": 1660
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27,
+          43.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol3",
+        "name": "Mount Bandai",
+        "elevation_m": 1819
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.13,
+          37.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol4",
+        "name": "Mount Rishiri",
+        "elevation_m": 1721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.23,
+          45.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol5",
+        "name": "Mount Asama",
+        "elevation_m": 2544
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5,
+          36.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol6",
+        "name": "Mount Meakan",
+        "elevation_m": 1499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03,
+          43.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol7",
+        "name": "Mount Zao",
+        "elevation_m": 1841
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.37,
+          38.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol8",
+        "name": "Mount Kaimon",
+        "elevation_m": 922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.63,
+          31.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol9",
+        "name": "Mount Aso",
+        "elevation_m": 1592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.1,
+          32.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol10",
+        "name": "Mount Unzen",
+        "elevation_m": 1359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.27,
+          32.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol11",
+        "name": "Mount Kuttara",
+        "elevation_m": 1496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.82,
+          42.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol12",
+        "name": "Mount Kujū",
+        "elevation_m": 1791
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.26,
+          33.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol13",
+        "name": "Mount Iwo",
+        "elevation_m": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.33,
+          24.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol14",
+        "name": "Mount Yuba",
+        "elevation_m": 1183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.27,
+          35.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vol15",
+        "name": "Sakurajima",
+        "elevation_m": 1117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.66,
+          31.59
+        ]
+      }
+    }
+  ]
+}
